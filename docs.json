@@ -107,19 +107,7 @@
     "light": "/logo-hd.png",
     "dark": "/logo-hd.png"
   },
-  "navbar": {
-    "links": [
-      {
-        "label": "Поддержка",
-        "href": "https://t.me/dioramoz"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "РГАТУ",
-      "href": "https://www.rsatu.ru"
-    }
-  },
+
   "contextual": {
     "options": [
      "copy",
