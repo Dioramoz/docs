@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Главная",
         "groups": [
           {
             "group": "Getting started",
@@ -48,7 +48,7 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Проекты",
         "groups": [
           {
             "group": "API documentation",
@@ -68,7 +68,27 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Увлечения",
+        "groups": [
+          {
+            "group": "API documentation",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          },
+          {
+            "group": "Endpoint examples",
+            "pages": [
+              "api-reference/endpoint/get",
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete",
+              "api-reference/endpoint/webhook"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Посты",
         "groups": [
           {
             "group": "API documentation",
@@ -107,7 +127,19 @@
     "light": "/logo-hd.png",
     "dark": "/logo-hd.png"
   },
-
+  "navbar": {
+    "links": [
+      {
+        "label": "Поддержка",
+        "href": "https://t.me/dioramoz"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "РГАТУ",
+      "href": "https://www.rsatu.ru"
+    }
+  },
   "contextual": {
     "options": [
      "copy",
