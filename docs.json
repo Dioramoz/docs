@@ -140,18 +140,7 @@
       "href": "https://www.rsatu.ru"
     }
   },
-  "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
-  },
+
   "footer": {
     "socials": {
 
